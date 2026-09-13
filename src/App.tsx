@@ -1,10 +1,10 @@
 import Header from "./components/Header";
-import TodoInput from "./components/TodoInput";
+
 
 function App() {
   return (
     <div>
-      <Header/>
+      <Header title="My Daily Task" subtitle="Oneek kaaj ache Amar ajke"/>
     </div>
   );
 }
